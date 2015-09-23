@@ -1,0 +1,23 @@
+{
+  "name": "Leaflet.DomMarkers",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ValentinH/Leaflet.DomMarkers",
+  "authors": [
+    "Valentin Hervieu <valentin@hervieu.me>"
+  ],
+  "description": "Leaflet Markers with a custom DOM element icon.",
+  "main": ["src/leaflet.dom-markers.js"],
+  "keywords": [
+    "Leaflet"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "leaflet": ">= 0.7.0"
+  }
+
+}
