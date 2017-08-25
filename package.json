@@ -1,0 +1,19 @@
+{
+  "name": "leaflet.dommarkers",
+  "version": "1.0.0",
+  "description": "Leaflet Markers with a custom DOM element icon.",
+  "main": "src/leaflet.dom-markers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areo/Leaflet.DomMarkers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areo/Leaflet.DomMarkers/issues"
+  },
+  "homepage": "https://github.com/areo/Leaflet.DomMarkers#readme"
+}
